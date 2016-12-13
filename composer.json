@@ -1,0 +1,14 @@
+{
+    "name": "dragg/laravel-ip-info-db",
+    "description": "The integration ip info db service (http://www.ipinfodb.com/ip_location_api_json.php) with Laravel",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nikolay Zhidenko",
+            "email": "dragg.ko@gmail.com"
+        }
+    ]
+}
