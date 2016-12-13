@@ -1,6 +1,6 @@
 <?php
 
-namespace App\WiFiPlanet\IPInfoDB\Exceptions;
+namespace Dragg\IPInfoDB\Exceptions;
 
 
 

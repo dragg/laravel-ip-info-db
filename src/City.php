@@ -1,6 +1,6 @@
 <?php
 
-namespace App\WiFiPlanet\IPInfoDB;
+namespace Dragg\IPInfoDB;
 
 
 class City

@@ -1,8 +1,8 @@
 <?php
 
-namespace App\WiFiPlanet\IPInfoDB\Providers;
+namespace Dragg\IPInfoDB\Providers;
 
-use App\WiFiPlanet\IPInfoDB\IPInfoDB;
+use Dragg\IPInfoDB\IPInfoDB;
 use Illuminate\Support\ServiceProvider;
 
 class IPInfoDBServiceProvider extends ServiceProvider

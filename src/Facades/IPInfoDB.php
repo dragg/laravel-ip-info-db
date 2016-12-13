@@ -1,6 +1,6 @@
 <?php
 
-namespace App\WiFiPlanet\IPInfoDB\Facades;
+namespace Dragg\IPInfoDB\Facades;
 
 
 use Illuminate\Support\Facades\Facade;

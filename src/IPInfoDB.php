@@ -1,10 +1,10 @@
 <?php
 
-namespace App\WiFiPlanet\IPInfoDB;
+namespace Dragg\IPInfoDB;
 
 
-use App\WiFiPlanet\IPInfoDB\Exceptions\InvalidAPIKeyException;
-use App\WiFiPlanet\IPInfoDB\Exceptions\IPInfoDBException;
+use Dragg\IPInfoDB\Exceptions\InvalidAPIKeyException;
+use Dragg\IPInfoDB\Exceptions\IPInfoDBException;
 use GuzzleHttp\Client;
 
 class IPInfoDB
